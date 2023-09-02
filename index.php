@@ -26,14 +26,14 @@
       <div class="container">
         <div class="header-top2">       
             <div class="logo ms-md-auto">
-                <a href="https://kantisangma.com/fullstack/aroma/">Wize</a>
+                <a href="https://kantisangma.com/fullstack/mid-exam/">Wize</a>
             </div>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText2" aria-controls="navbarText2" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarText2">
           <ul class="navbar-nav ms-md-auto mb-2 mb-lg-0">          
-            <li><a href="https://kantisangma.com/fullstack/aroma/" class="active">Services</a></li>
+            <li><a href="https://kantisangma.com/fullstack/mid-exam/" class="active">Services</a></li>
             <li><a href="">Our work</a></li>
             <li><a href="">Case studies</a></li>
             <li><a href="https://kantisangma.com/fullstack/aroma/admission.php">Process</a></li>          
